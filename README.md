@@ -2,6 +2,12 @@
 
 Este repositorio comtempla una propuesta, la cual premite haciendo uso de la programación disminuir los tiempos de diseño En Autocad Electrical. Para esto se hace un algoritmo el cual se divide en dos partes que son la creación de copias de cada uno de los módulos y cambio de componentes.
 
+<p align="center">
+    <img src="https://github.com/amalzatev/Design-automation-Autocad-Electrical/blob/main/Imagen8.png" alt="Logo">
+</p>
+
+
+
 # Creación de copias
 
 Inicialmente, se hace la copia de los diseños para el caso trabajado en este caso, para esto se debe seguir la metodología mostrada a continuación:
